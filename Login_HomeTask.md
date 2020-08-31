@@ -119,8 +119,8 @@
 | TEST |
 | ------ |
 | 1. The Application should not permit an attacker to access credentials without proper authentication. This includes making sure the communications with the backend are properly secured with Database. ex: The Password should be securely sync with database and stored in encrypted format |
-| Verify the strong password protection system within the mobile app/System. ex: Autofill Password feature from the Browsers settings or provide MFA security option while registration or settings related to Cookies or clear browing data |
-| Analyze and prevent any vulnerabilities from different data streams. ex: The Database should detect/identify if any unauthenticated activity |
+|2. Verify the strong password protection system within the mobile app/System. ex: Autofill Password feature from the Browsers settings or provide MFA security option while registration or settings related to Cookies or clear browing data |
+|3. Analyze and prevent any vulnerabilities from different data streams. ex: The Database should detect/identify if any unauthenticated activity |
 
 
 
